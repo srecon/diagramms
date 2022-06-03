@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T10:30:28.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="MDBO_2hg0TXYvi-aYGG2" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T10:35:59.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="nikxo7mQRDz5zqs8KyxE" version="18.1.3" type="github" pages="2">
   <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Задачи">
     <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1EeO4xdb-GVHnBPe2eO6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" target="1EeO4xdb-GVHnBPe2eO6-4">
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-1" target="1EeO4xdb-GVHnBPe2eO6-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="290" as="sourcePoint" />
           </mxGeometry>
@@ -120,7 +120,7 @@
           <mxGeometry x="124.5" y="340" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Main БД&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="420" width="65" height="30" as="geometry" />
+          <mxGeometry x="119.5" y="410" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="340" width="60" height="70" as="geometry" />
@@ -134,19 +134,42 @@
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;АС ППРБ&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="730" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1EeO4xdb-GVHnBPe2eO6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="1EeO4xdb-GVHnBPe2eO6-30" target="1EeO4xdb-GVHnBPe2eO6-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-1" target="1EeO4xdb-GVHnBPe2eO6-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.5" y="255" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1EeO4xdb-GVHnBPe2eO6-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Вектор изменений&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1EeO4xdb-GVHnBPe2eO6-32">
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;ВИ&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1EeO4xdb-GVHnBPe2eO6-32">
           <mxGeometry x="-0.0498" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1EeO4xdb-GVHnBPe2eO6-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;ФП/Модуль прикладных сервисов ППРБ&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;dashed=1;fontSize=16;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="220" width="150" height="70" as="geometry" />
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-4" target="1EeO4xdb-GVHnBPe2eO6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;" edge="1" parent="1" source="1EeO4xdb-GVHnBPe2eO6-31" target="_2d-plOx3B_W4DPBvHBG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-31" value="Прикладной журнал" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-34" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="545" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1EeO4xdb-GVHnBPe2eO6-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;StandIn БД&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="535.75" y="410" width="78.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ФП/Модуль прикладных сервисов ППРБ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="170" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-2" value="main" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="104.5" y="255" width="95" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ФП/Модуль прикладных сервисов ППРБ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="174" width="170" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-4" value="Applier" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="251" width="95" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
