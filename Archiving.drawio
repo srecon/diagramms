@@ -1,113 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T12:54:03.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="fz7fZ_EsMTV6d0Z8VhNw" version="18.1.3" type="github" pages="2">
-  <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Задачи">
-    <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="zl2FTIxFO5QNF259nzvI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-1" target="zl2FTIxFO5QNF259nzvI-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ФП/Модуль прикладных сервисов ППРБ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-2" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Настройка списка таблиц/сущности&lt;/li&gt;&lt;li&gt;Подготовка партиций данных&lt;/li&gt;&lt;li&gt;Нормализация данных в формате: универсального формата ПЖ, JSON, XML, CSV или Transaction log&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="280" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="124.5" y="340" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Main БД&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="420" width="65" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="215" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-11" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="500" as="sourcePoint" />
-            <mxPoint x="320" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-12" value="Подготовка данных&lt;br&gt;(Normalization/Preperation)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Политика архивирования данных&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="817.5" y="340" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-21" target="zl2FTIxFO5QNF259nzvI-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="215" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Archive БД&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="811.25" y="410" width="72.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-19" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="500" as="sourcePoint" />
-            <mxPoint x="760" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-20" value="Архивирование данных" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="215" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Архивирование/вытеснение/уплотнение данных&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="200" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-23" target="zl2FTIxFO5QNF259nzvI-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="968.75" y="385" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="969" y="450" />
-              <mxPoint x="534" y="450" />
-              <mxPoint x="534" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-27" value="Восстановление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zl2FTIxFO5QNF259nzvI-26">
-          <mxGeometry x="-0.3439" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Доступ к данных (Readonly acess/поиск)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="883.75" y="200" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-23" target="zl2FTIxFO5QNF259nzvI-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="827.5" y="255" as="sourcePoint" />
-            <mxPoint x="850" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-28" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="500" as="sourcePoint" />
-            <mxPoint x="1060" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-29" value="Доступ к данным" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-31" value="&lt;h1&gt;АС ППРБ&lt;/h1&gt;&lt;div&gt;Основные шаги и задачи архивирования данных АС ППРБ&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="310" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-32" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Настройка частота переноса данных&lt;/li&gt;&lt;li&gt;Настройка задания переноса данных&lt;/li&gt;&lt;li&gt;Вытеснение данных&lt;br&gt;&lt;/li&gt;&lt;li&gt;Уплотнение данных&lt;/li&gt;&lt;li&gt;Очистка данных&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="515" width="280" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="zl2FTIxFO5QNF259nzvI-33" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Поиска данных&lt;/li&gt;&lt;li&gt;формирование отчетности&amp;nbsp;&lt;/li&gt;&lt;li&gt;Администрирование данных&lt;/li&gt;&lt;li&gt;Восстановление данных в оперативную БД&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="300" height="140" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2022-06-03T12:57:19.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="_kQ1Wx2pvRfMIX8V8_zX" version="18.1.3" type="github" pages="2">
   <diagram id="xrg9YqK556ewpfZIYzAw" name="Архитектура-ПЖ">
-    <mxGraphModel dx="742" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +295,113 @@
               <mxPoint x="640" y="399" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Задачи">
+    <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zl2FTIxFO5QNF259nzvI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-1" target="zl2FTIxFO5QNF259nzvI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ФП/Модуль прикладных сервисов ППРБ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-2" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Настройка списка таблиц/сущности&lt;/li&gt;&lt;li&gt;Подготовка партиций данных&lt;/li&gt;&lt;li&gt;Нормализация данных в формате: универсального формата ПЖ, JSON, XML, CSV или Transaction log&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Main БД&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="420" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="215" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-11" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="500" as="sourcePoint" />
+            <mxPoint x="320" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-12" value="Подготовка данных&lt;br&gt;(Normalization/Preperation)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Политика архивирования данных&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-21" target="zl2FTIxFO5QNF259nzvI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="215" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Archive БД&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="811.25" y="410" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-19" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="500" as="sourcePoint" />
+            <mxPoint x="760" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-20" value="Архивирование данных" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="215" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Архивирование/вытеснение/уплотнение данных&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-23" target="zl2FTIxFO5QNF259nzvI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="968.75" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="969" y="450" />
+              <mxPoint x="534" y="450" />
+              <mxPoint x="534" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-27" value="Восстановление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zl2FTIxFO5QNF259nzvI-26">
+          <mxGeometry x="-0.3439" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Доступ к данных (Readonly acess/поиск)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="883.75" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zl2FTIxFO5QNF259nzvI-23" target="zl2FTIxFO5QNF259nzvI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827.5" y="255" as="sourcePoint" />
+            <mxPoint x="850" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-28" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="500" as="sourcePoint" />
+            <mxPoint x="1060" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-29" value="Доступ к данным" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;strokeWidth=2;" connectable="0" vertex="1" parent="zl2FTIxFO5QNF259nzvI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-31" value="&lt;h1&gt;АС ППРБ&lt;/h1&gt;&lt;div&gt;Основные шаги и задачи архивирования данных АС ППРБ&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-32" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Настройка частота переноса данных&lt;/li&gt;&lt;li&gt;Настройка задания переноса данных&lt;/li&gt;&lt;li&gt;Вытеснение данных&lt;br&gt;&lt;/li&gt;&lt;li&gt;Уплотнение данных&lt;/li&gt;&lt;li&gt;Очистка данных&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="515" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-33" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Поиска данных&lt;/li&gt;&lt;li&gt;формирование отчетности&amp;nbsp;&lt;/li&gt;&lt;li&gt;Администрирование данных&lt;/li&gt;&lt;li&gt;Восстановление данных в оперативную БД&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="300" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
