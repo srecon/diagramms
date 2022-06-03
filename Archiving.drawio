@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T10:43:53.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="0Ft9Zqi9Ode6ewQWRTi7" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T10:46:00.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="g-qKSsc3XZmCTeHigzHz" version="18.1.3" type="github" pages="2">
   <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Задачи">
     <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-4" target="1EeO4xdb-GVHnBPe2eO6-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2d-plOx3B_W4DPBvHBG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-27" target="_2d-plOx3B_W4DPBvHBG-12">
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="_2d-plOx3B_W4DPBvHBG-27" target="_2d-plOx3B_W4DPBvHBG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1EeO4xdb-GVHnBPe2eO6-31" value="Прикладной журнал" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -216,7 +216,7 @@
         <mxCell id="_2d-plOx3B_W4DPBvHBG-27" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="105" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2d-plOx3B_W4DPBvHBG-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="1EeO4xdb-GVHnBPe2eO6-31" target="_2d-plOx3B_W4DPBvHBG-27">
+        <mxCell id="_2d-plOx3B_W4DPBvHBG-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="1EeO4xdb-GVHnBPe2eO6-31" target="_2d-plOx3B_W4DPBvHBG-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="120" as="sourcePoint" />
             <mxPoint x="705" y="170" as="targetPoint" />
