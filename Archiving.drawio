@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T08:32:10.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="18.1.3" etag="IJHjorv7QihvDoCW_R-T" type="github"><diagram id="oOtBFOZvYgS8ZCa8Cb5C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-03T08:35:04.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="b6ovxOC-GODiHzywuPF9" version="18.1.3" type="github">
+  <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Page-1">
+    <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zl2FTIxFO5QNF259nzvI-1" value="ФП/Модуль прикладных сервисов ППРБ" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zl2FTIxFO5QNF259nzvI-2" value="АС ППРБ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
