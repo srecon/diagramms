@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T12:53:52.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="-Fk-7tjj_2qpRlLgr4bh" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T12:54:03.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="fz7fZ_EsMTV6d0Z8VhNw" version="18.1.3" type="github" pages="2">
   <diagram id="oOtBFOZvYgS8ZCa8Cb5C" name="Задачи">
     <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
           <mxGeometry x="680.75" y="383" width="53.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_2d-plOx3B_W4DPBvHBG-78" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fontSize=13;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="686" y="398" width="50" height="20" as="geometry" />
+          <mxGeometry x="680" y="398" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_2d-plOx3B_W4DPBvHBG-79" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Операционные данные&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="199.5" y="375" width="120" height="10" as="geometry" />
